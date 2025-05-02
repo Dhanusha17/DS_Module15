@@ -1,5 +1,4 @@
 # Ex3 (e) Largest Element in BST
-## DATE:
 ## AIM:
 To Write a c program to find the largest value in a Binary Search Tree.
 
